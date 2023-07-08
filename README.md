@@ -11,7 +11,7 @@ Skills: HTML | CSS | PYTHON | JAVA | JAVASCRIPT
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/github.com/ashwinoza88)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ashwinoza88//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/ashwinoza88//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/ashwinoza88)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinoza88&layout=donut)](https://github.com/anuraghazra/github-readme-stats)   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwinoza88)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinoza88&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwinoza88)](https://github.com/anuraghazra/github-readme-stats)
 
